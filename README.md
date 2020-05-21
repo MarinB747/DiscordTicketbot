@@ -1,0 +1,2 @@
+# TicketsKobasicom
+Discord Ticket bot
