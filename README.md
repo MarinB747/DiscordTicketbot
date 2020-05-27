@@ -1,4 +1,4 @@
-# TicketsKobasicom
+# DiscordTicketbot
 Discord Ticket bot
 
 Hi this is my first bot for discord which base function is to do tickets for new folks arriving on the server.
